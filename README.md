@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jinisha 👋</h1>
 
-<h3 align="center">Senior AI Frontend Specialist @ Lanxess | Building AI-Powered UIs with CopilotKit, React & FastAPI</h3>
+<h3 align="center">Specialist AI Frontend Developer @ Lanxess | Building AI-Powered UIs with CopilotKit, React & FastAPI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jinisha-kg-3b0783188">
